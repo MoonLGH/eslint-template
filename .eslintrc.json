@@ -21,6 +21,7 @@
             "warn",
             "double"
         ],
-        "linebreak-style":"off"
+        "linebreak-style": "off",
+        "camelcase": "off"
     }
 }
